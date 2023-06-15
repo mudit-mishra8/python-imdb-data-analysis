@@ -1,5 +1,6 @@
 # 🌟 Delving into the Magic of IMDb's Top 250 Movies 🎥
 
+Click here to view the python code👉[Jupyter Notebook](https://github.com/mudit-mishra8/python-imdb-data-analysis/blob/main/IMDB_DATA_ANALYSIS_PYTHON.ipynb)
 
 
 ![Analysis Screenshot](https://i0.wp.com/runpee.com/wp-content/uploads/2022/04/good-will-hunting_header.jpg?ssl=1)
