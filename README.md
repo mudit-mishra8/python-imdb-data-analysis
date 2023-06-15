@@ -17,7 +17,7 @@ Every movie buff knows the IMDb Top 250 list is a treasure trove of cinematic go
 - **Statistical Analysis**: We then performed a statistical analysis to gain a robust understanding of the data.
 - **Insights Generation**: Diving deep into the depths of this cinematic ocean, we've found some pearls of wisdom.
 
-[**Access the Full Analysis Here 👉 **]([YOUR_NOTEBOOK_LINK](https://github.com/mudit-mishra8/python-imdb-data-analysis/blob/main/IMDB_DATA_ANALYSIS_PYTHON.ipynb))
+[**Access the Full Analysis Here 👉 **](https://github.com/mudit-mishra8/python-imdb-data-analysis/blob/main/IMDB_DATA_ANALYSIS_PYTHON.ipynb)
 
 ## 🎭 Stage Two: The Magic Revealed 🌌
 
