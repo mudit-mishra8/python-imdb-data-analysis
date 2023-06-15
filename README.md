@@ -2,7 +2,7 @@
 
 
 
-![Analysis Screenshot](https://images.indianexpress.com/2021/10/good-will-hunting-1200.jpg)
+![Analysis Screenshot](https://i0.wp.com/runpee.com/wp-content/uploads/2022/04/good-will-hunting_header.jpg?ssl=1)
 
 
 ## 🎩 A Journey Behind the Curtain 🍿
