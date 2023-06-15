@@ -2,7 +2,7 @@
 
 Click here to view the python code👉[Jupyter Notebook](https://github.com/mudit-mishra8/python-imdb-data-analysis/blob/main/IMDB_DATA_ANALYSIS_PYTHON.ipynb)
 
-<img src="https://i0.wp.com/runpee.com/wp-content/uploads/2022/04/good-will-hunting_header.jpg?ssl=1" alt="Image 1" width="1000" height="420">
+<img src="https://i0.wp.com/runpee.com/wp-content/uploads/2022/04/good-will-hunting_header.jpg?ssl=1" alt="Image 1" width="800" height="470">
 
 
 ## 🎩 A Journey Behind the Curtain 🍿
